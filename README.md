@@ -1,2 +1,4 @@
 # ruby_project
-TDD
+Project: Ruby
+
+The Odin Project
